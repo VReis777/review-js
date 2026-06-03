@@ -3,10 +3,10 @@
 // import viteLogo from './assets/vite.svg'
 // import heroImg from './assets/hero.png'
 import './App.css'
-import Alunos from "./components/Alunos"
+import Alunos from "./Components/Alunos"
 import './Components/ContarPendencias'
-import ContarPendencias from './components/ContarPendencias'
-import ListaPendencia from './components/ListaPendencia'
+import ContarPendencias from './Components/ContarPendencias'
+import ListaPendencia from './Components/ListaPendencia'
 import { alunos } from './data/alunos'
 
 function App() {
